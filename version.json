@@ -1,0 +1,12 @@
+{
+  "project": "ptojets-ota",
+  "chip": "esp32",
+  "mode": "trigger_only",
+  "version": "1.0.1",
+  "latest_version": "1.0.1",
+  "bin_name": "firmware.bin",
+  "bin_url": "https://github.com/howwhokk/ptojets-ota/releases/latest/download/firmware.bin",
+  "sha256": "",
+  "size": 0,
+  "notes": "ESP32 should check this file only when app triggers update. If sha256/size are filled, verify after download."
+}
